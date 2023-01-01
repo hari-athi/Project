@@ -1,0 +1,21 @@
+.learnaboutus{
+    margin: 6vw;
+    text-align: center;
+}
+
+.tag{
+    border: 1px solid orange;
+    padding: 2vw;
+}
+
+.paragraph{
+    text-align: justify;
+    font-size: 1.5vw;
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+.abouthead{
+    font-size: 2vw;
+    margin: 2vw;
+}

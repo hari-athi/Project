@@ -1,0 +1,25 @@
+.title{
+    margin: 8vw;
+    text-align: center;
+}
+
+.para{
+    font-size: 1.5vw;
+    padding: 0;
+    text-align: center;
+}
+
+.headfont{
+    font-size: 3vw;
+    font-weight: bolder;
+}
+
+.bimage{
+    width: 100vw;
+    height: 45vw;
+}
+
+.practicehead{
+    font-size: 2vw;
+    margin: 2vw;
+}

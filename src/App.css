@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.aboutus{
+  background-image: url("./resource/background.jpg");
+}

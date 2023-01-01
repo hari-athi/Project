@@ -1,0 +1,29 @@
+.footers{
+    color: azure;
+    background-color: rgb(30, 30, 133);
+    /* min-height: 25vw; */
+    text-align: center;
+}
+
+.palign{
+    margin: 1vw;
+    font-size: 1.5vw;
+}
+
+.align{
+    margin: 1vw;
+    font-size: 1.5vw;
+}
+
+.content{
+    text-align: center;
+    margin-top: 1vw;
+}
+
+.footerdiv{
+    padding: 6vw;
+}
+
+.icon{
+    font-size: 2vw;
+}
