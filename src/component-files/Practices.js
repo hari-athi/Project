@@ -2,7 +2,7 @@ import React from "react";
 import criminal from "../resource/criminal.jpeg";
 import family from "../resource/family.jpeg";
 import business from "../resource/business.jpeg";
-import constitutional from "../resource/constitutional.jpeg";
+import constitutional from "../resource/const.jpeg";
 import "../styles/Practices.css";
 import { Carousel } from "react-bootstrap";
 
