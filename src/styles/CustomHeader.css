@@ -3,7 +3,7 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 70vw;
+  max-height: 70vw;
   /* display: flex; */
   padding: 0;
 }
@@ -41,7 +41,7 @@
   /* background: rgba(0,0,0,0.5); */
   background: linear-gradient(0deg, rgb(71, 71, 71) 0%, rgba(0, 0, 0, 0.5) 99%);
   width: 100%;
-  min-height: 70vw;
+  max-height: 70vw;
   /* height: 100%; */
 }
 
