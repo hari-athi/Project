@@ -6,7 +6,7 @@ import Footer from "./component-files/Footer";
 
 function App() {
   return (
-    <div>
+    <div className="background">
       <CustomHeader/>
       <AboutUs/>
       <Practices/>

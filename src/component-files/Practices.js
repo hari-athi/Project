@@ -71,7 +71,7 @@ const Practices = () => {
               economic matters.
             </p>
           </Carousel.Caption>
-        </Carousel.Item>
+        </Carousel.Item>  
       </Carousel>
     </div>
   );
