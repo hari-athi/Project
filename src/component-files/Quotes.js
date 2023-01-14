@@ -4,7 +4,7 @@ import "../styles/Quotes.css";
 
 const Quotes = () => {
   return (
-    <div className="title">
+    <div className="quotetitle">
       <Carousel className=".carousel-indicators .carousel-control-next-icon .carousel-control-prev-icon">
         <Carousel.Item>
           <div className="d-block w-100 bimage"></div>
