@@ -36,5 +36,15 @@
 background: linear-gradient(0deg, rgba(148,147,147,0.9956914650625875) 0%, rgba(184,183,183,1) 19%, rgba(250,250,250,1) 99%); */
 /* background: rgb(195,235,243);
 background: linear-gradient(0deg, rgba(195,235,243,0.8724421653426996) 0%, rgba(220,228,228,0.8444309608609069) 19%, rgba(230,251,251,1) 99%); */
-background-color: aliceblue;
+/* background-color: aliceblue; */
+/* background-color: white; */
+
+/* background: rgb(209,241,248);
+background: linear-gradient(90deg, rgba(209,241,248,0.8724421653426996) 0%, rgba(148,214,228,0.8444309608609069) 11%, rgba(24,178,212,1) 72%); */
+
+/* background: rgb(209,241,248);
+background: linear-gradient(90deg, rgba(209,241,248,0.8724421653426996) 0%, rgba(148,214,228,0.8444309608609069) 11%, rgba(132,227,249,1) 72%); */
+
+background: rgb(209,241,248);
+background: linear-gradient(127deg, rgba(209,241,248,0.8724421653426996) 0%, rgba(148,214,228,0.8444309608609069) 50%, rgba(132,227,249,1) 96%);
 }

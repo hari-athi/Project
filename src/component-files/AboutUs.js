@@ -1,4 +1,5 @@
 import React from "react";
+import Learnus from "../resource/LearnUS.jpeg";
 import "../styles/AboutUs.css";
 
 const AboutUs = () => {
@@ -6,6 +7,7 @@ const AboutUs = () => {
     <div className="learnaboutus">
       <h2 className=" abouthead">Learn About Us</h2>
       <div className="tag">
+        <img src={Learnus} alt="Supporting pic" className="learnusimage"></img>
         <p className=" lh-lg paragraph">
           The Atlas Law Consultancy was established to raise voice for the poor
           and to fight for the justice that deserve. We believe everyone has a

@@ -3,7 +3,8 @@
     /* background-color: rgb(30, 30, 133); */
     /* min-height: 25vw; */
     /* text-align: center; */
-    border-top: 2px solid grey;
+    padding: 3vw;
+    border-top: 1px solid rgb(211, 227, 248);
 }
 
 .spanletter{
@@ -20,6 +21,17 @@
     font-size: 1.5vw;
 }
 
+.alignspan{
+    /* margin: 1vw; */
+    font-size: 1vw;
+}
+
+.alignheader{
+    margin: 1vw;
+    font-size: 1.7vw;
+    font-weight: bold;
+}
+
 .content{
     text-align: center;
     margin-top: 1vw;
@@ -27,9 +39,20 @@
 
 .footerdiv{
     padding: .5vw;
+    /* background: rgb(109, 219, 241);
+  background: linear-gradient(
+    10deg,
+    rgba(109, 219, 241, 0.8724421653426996) 0%,
+    rgba(44, 166, 192, 0.8444309608609069) 13%,
+    rgba(28, 137, 161, 1) 43%,
+    rgba(7, 91, 112, 1) 99%); */
+
+    background: rgb(109,219,241);
+background: linear-gradient(50deg, rgba(109,219,241,0.8724421653426996) 0%, rgba(44,166,192,0.8444309608609069) 19%, rgba(28,137,161,1) 94%);
 }
 
 .icon{
     font-size: 2vw;
+    color: whitesmoke;
     /* box-shadow: 0px 0px 5px 1px rgb(7, 7, 136); */
 }

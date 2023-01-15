@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/Whyus.css";
+import whyus from "../resource/whyus.jpeg";
 
 const Whyus = () => {
   return (
@@ -15,6 +16,7 @@ const Whyus = () => {
           and come out with success.<br/>
           <span className="span2"> "We Raise Our Voice For You."</span>
         </p>
+        <img src={whyus} alt="Supporting pic" className="whyusimage"></img>
       </div>
     </div>
   );

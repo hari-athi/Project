@@ -17,14 +17,15 @@
     width: 30vw;
     min-height: 20vw;
     border-radius: 1vw;
-    background-color: rgb(40, 40, 230);
-    color: white;
+    /* background-color: rgb(40, 40, 230); */
+    background-color: rgb(207, 227, 245);
+    color: black;
     border: 1px solid black;
     margin:2vw;
     padding: 1vw;
     transition: box-shadow 0.3s, transform 0.3s;
 }
 .card:hover{
-    box-shadow: 0px 0px 30px 20px rgb(7, 7, 136);
+    box-shadow: 0px 0px 30px 20px rgb(40, 119, 143);
     transform:scale(1.1,1.1);
 }

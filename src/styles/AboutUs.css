@@ -1,17 +1,28 @@
 .learnaboutus{
-    margin:10vw;
+    margin-top:10vw;
+    margin-bottom: 10vw;
+    margin-left: 5vw;
+    margin-right:5vw;
     text-align: center;
 }
 
 .tag{
-    border: 1px solid rgb(94, 111, 114);
+    /* border: 1px solid rgb(94, 111, 114); */
     border-radius: 10px;
-    padding: 4vw;
+    /* padding: 4vw; */
     box-shadow: 0px 0px 15px 5px rgb(101, 120, 124) ;
     background-color: aliceblue;
+    display: flex;
+}
+
+.learnusimage{
+    padding: 2vw;
+    width: 24vw;
+    height: 25vw;
 }
 
 .paragraph{
+    padding: 2vw;
     text-align: center;
     font-size: 1.6vw;
     font-style: italic;
