@@ -8,7 +8,7 @@ import { SlSocialTwitter } from "react-icons/sl";
 const Footer = () => {
   return (
    
-    <div className="container w-100 footerdiv ">
+    <div className="container w-100">
       <footer className="footers d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
         {/* <div className="row w-100 content"> */}
         <div className="col-md-4 d-flex align-items-center">
