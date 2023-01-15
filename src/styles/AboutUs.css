@@ -10,9 +10,14 @@
     /* border: 1px solid rgb(94, 111, 114); */
     border-radius: 10px;
     /* padding: 4vw; */
-    box-shadow: 0px 0px 15px 5px rgb(101, 120, 124) ;
-    background-color: aliceblue;
+    background-color: rgb(207, 227, 245);
     display: flex;
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+
+.tag:hover{
+    box-shadow: 0px 0px 15px 5px rgb(101, 120, 124) ;
+    transform: scale(1,1);
 }
 
 .learnusimage{
@@ -24,8 +29,8 @@
 .paragraph{
     padding: 2vw;
     text-align: center;
-    font-size: 1.8vw;
-    font-style: italic;
+    font-size: 1.5vw;
+    /* font-style: italic; */
     margin-bottom: 0;
     color: rgb(22, 22, 22);
 }
