@@ -1,10 +1,21 @@
-.title{
-    margin: 8vw;
+.quotetitle{
+    margin-bottom: 8vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-top: 4vw;
     text-align: center;
 }
 
+.carousel-indicators{
+    display: none;
+}
+
+.carousel-control-next-icon,.carousel-control-prev-icon{
+    visibility: hidden;
+}
+
 .para{
-    font-size: 2.5vw;
+    font-size: 2vw;
     margin: 1vw;
     text-align: center;
     font-style: italic;
@@ -13,11 +24,12 @@
 .headfont{
     font-size: 1.5vw;
     font-weight: bold;
+    margin-top: 0;
 }
 
 .bimage{
     width: 100vw;
-    height: 25vw;
+    height: 30vw;
     opacity: 0.6;
     /* margin-top: 20vw; */
 }

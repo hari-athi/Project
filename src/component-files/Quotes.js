@@ -1,11 +1,11 @@
 import React from "react";
 import { Carousel } from "react-bootstrap";
-import "../styles/Practices.css";
+import "../styles/Quotes.css";
 
 const Quotes = () => {
   return (
-    <div className="title">
-      <Carousel>
+    <div className="quotetitle">
+      <Carousel className=".carousel-indicators .carousel-control-next-icon .carousel-control-prev-icon">
         <Carousel.Item>
           <div className="d-block w-100 bimage"></div>
           <Carousel.Caption>
